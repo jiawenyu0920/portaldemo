@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+input{
+    padding-left: 20px;
+}
+/*第一部分*/
+#d1 {
+    height: 150px;
+}
+#d1-a1{
+    width: 120px;
+    height: 50px;
+    display: flex;
+    margin: auto;
+    margin-top:50px ;
+}
+#d1-a1 img{
+    width: 100%;
+    height: 100%;
+}
+/*第二部分*/
+#d2{
+
+    height: 20%;
+    width: 80%;
+    margin: auto;
+}
+#d21-xia{
+    height: 20px;
+    width: 20px;
+    display: flex;
+
+}
+#d2-a1{
+    height:40px;
+    position: relative;
+}
+#d21-xia{
+    margin-top: 10px;
+}
+#d21-xia img{
+    width: 100%;
+    height: 100%;
+}
+#d21-b1{
+    width: 23%;
+    height: 100%;
+    display: flex;
+    border: none;
+    outline: none;
+    border-bottom: #E7E7E7 2px solid;
+}
+#d21-b2{
+    width: 75%;
+    height: 100%;
+    display: flex;
+    float: right;
+    margin-top:-42px;
+    margin-left:86px;
+    position: absolute;
+}
+#d21-b1 span{
+    font-size:15px ;
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+#d21-b2 input{
+    border: none;
+    outline: none;
+    width: 200px;
+    border-bottom: #E7E7E7 2px solid;
+    border-left:#E7E7E7 2px solid;
+}
+#d2-a2{
+    margin-top: 10px;
+    height:40px;
+    position: relative;
+}
+#d2-a2 input{
+    border: none;
+    outline: none;
+    width: 100px;
+    height:40px;
+    border-bottom: #E7E7E7 2px solid;
+}
+#d2-a2 span{
+    border: none;
+    outline: none;
+    width: 200px;
+    margin-top: -35px;
+    margin-left: 220px;
+    display: flex;
+    position: absolute;
+}
+#d2-b2{
+    border: none;
+    outline: none;
+    width: 310px;
+    border-bottom: #E7E7E7 2px solid;
+}
+#d3{
+    width: 90%;
+    height: 40%;
+    margin: auto;
+}
+#d3-a1{
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    background-color:#FC347B ;
+    display: flex;
+    position: relative;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+#d3-b1 a{
+    display: flex;
+    position: absolute;
+    left:130px;
+    top:15px ;
+    color: white;
+}
+#d3-a2{
+   height: 20%;
+    width: 85%;
+    margin: auto;
+    color:#999999 ;
+    margin-top: 5px;
+    margin-left: 35px;
+    font-size:10px ;
+}
+#d3-b2{
+    float: right;
+}
