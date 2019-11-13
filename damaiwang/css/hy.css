@@ -1,0 +1,92 @@
+a{
+    text-decoration:none;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+#wk{
+    height: 2000px;
+    width: 100%;
+    background-color: #1F1C1F;
+}
+#a1{
+    height: 15%;
+    width: 100%;
+}
+#a1 img{
+    height: 100%;
+    width: 100%;
+}
+#a2{
+    height: 5%;
+    width: 100%;
+    background-color:#1F1C1F ;
+}
+#b2{
+     height: 70%;
+     width:60%;
+    margin-left:65px;
+    margin-top: -5px;
+ }
+#a2 a img{
+    height: 100%;
+    width: 100%;
+    margin-top: 10px;
+}
+#a3{
+    height: 15%;
+    width: 100%;
+    margin-top: -3px;
+}
+#a3 img{
+    width: 100%;
+    height: 100%;
+
+}
+#a4{
+    height: 8%;
+    width: 100%;
+}
+#a4 img{
+    width: 100%;
+    height: 100%;
+}
+#a5{
+    width: 100%;
+    height:20%;
+}
+#a5 img{
+    height: 100%;
+    width: 100%;
+}
+#a6{
+    height:25% ;
+    width: 100%;
+}
+#a6 img{
+    width: 100%;
+    height: 100%;
+}
+#a7{
+    height: 6%;
+    width: 100%;
+}
+#a7 img{
+    width: 100%;
+    height: 100%;
+}
+#a8{
+    width: 100%;
+    height: 6%;
+}
+#b3{
+    height: 72%;
+    width: 78%;
+    margin-left:40px;
+    margin-top: 18px;
+}
+#b3 a img{
+    height: 100%;
+    width: 100%;
+}

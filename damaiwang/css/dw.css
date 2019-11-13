@@ -3,15 +3,16 @@ body{
 }
 a{
     text-decoration: none;
+    color: #222222;
 }
 #wk{
     height: 1000px;
-    border: red 1px solid;
 }
+第一部分
 .b1{
     height: 3%;
     width: 100%;
-    background-color: #F2F3F4;
+    background-color:#F2F3F4 ;
 }
 .b1 span{
     font-size:15px;
@@ -19,7 +20,9 @@ a{
     display: flex;
     padding-top: 4px;
     color: #333333;
+    background-color:#F2F3F4 ;
 }
+/*第二部分*/
 .b2{
     height: 5%;
     width: 100%;
@@ -38,20 +41,26 @@ a{
     display: flex;
     padding-top:7px;
 }
+/*第四部分*/
 #b3{
-    height: 13%;
-    border: red 1px solid;
+    height: 18%;
 }
 .b3-a1{
-    height: 49%;
+    height: 33%;
     width: 100%;
-    border: #FC347B 1px solid;
+}
+.b3-a2{
+    height: 33%;
+    width: 100%;
+}
+.b3-a3{
+    height: 33%;
+    width: 100%;
 }
 .b3-b2{
     height: 100%;
     width: 32.6%;
     float: left;
-    border: #FC347B 1px solid;
 }
 .b3-c{
     height: 52%;
@@ -59,11 +68,27 @@ a{
     border-radius: 7px;
     margin-left: 10px;
     margin-top: 13px;
-    border:  #F7F7F7 2px solid;
+    display: flex;
+    border: #F2F3F4 2px solid;
 }
-.b3-c span{
+.b3-d span{
     float: left;
-    text-align: center;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+.b3-d2 span{
+    float: left;
+    margin-top: 5px;
+}
+/*第六部分*/
+.d5{
+    height: 4%;
+    border-bottom:#F2F3F4 2px solid;
+}
+.d5 a{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 
 
