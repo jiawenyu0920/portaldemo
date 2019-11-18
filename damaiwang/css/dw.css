@@ -73,12 +73,14 @@ a{
 }
 .b3-d span{
     float: left;
+    font-size: 13.5px;
     margin-top: 5px;
     margin-left: 30px;
 }
 .b3-d2 span{
     float: left;
     margin-top: 5px;
+    font-size: 13.5px;
 }
 /*第六部分*/
 .d5{

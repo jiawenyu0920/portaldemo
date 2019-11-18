@@ -9,14 +9,14 @@ input{
 }
 /*第一部分*/
 #d1 {
-    height: 150px;
+    height: 100px;
 }
 #d1-a1{
-    width: 120px;
-    height: 50px;
+    width: 60%;
+    height: 55px;
     display: flex;
     margin: auto;
-    margin-top:50px ;
+    margin-top:30px ;
 }
 #d1-a1 img{
     width: 100%;
@@ -28,30 +28,32 @@ input{
     height: 20%;
     width: 80%;
     margin: auto;
+    margin-top: 10px;
 }
 #d21-xia{
     height: 20px;
     width: 20px;
     display: flex;
-
 }
 #d2-a1{
-    height:40px;
+    height:30px;
     position: relative;
 }
 #d21-xia{
-    margin-top: 10px;
+    margin-top:5px;
 }
 #d21-xia img{
     width: 100%;
     height: 100%;
 }
 #d21-b1{
-    width: 23%;
+    width: 30%;
     height: 100%;
     display: flex;
     border: none;
     outline: none;
+    margin-left: 6px;
+    margin-bottom: 12px;
     border-bottom: #E7E7E7 2px solid;
 }
 #d21-b2{
@@ -60,19 +62,18 @@ input{
     display: flex;
     float: right;
     margin-top:-42px;
-    margin-left:86px;
+    margin-left:80px;
     position: absolute;
 }
 #d21-b1 span{
     font-size:15px ;
-    margin-top: 10px;
+    margin-top: 3px;
     margin-left: 15px;
 
 }
 #d21-b2 input{
     border: none;
     outline: none;
-    width: 200px;
     border-bottom: #E7E7E7 2px solid;
     border-left:#E7E7E7 2px solid;
 }
@@ -86,21 +87,20 @@ input{
     outline: none;
     width: 100px;
     height:40px;
-    border-bottom: #E7E7E7 2px solid;
 }
 #d2-a2 span{
     border: none;
     outline: none;
     width: 200px;
     margin-top: -35px;
-    margin-left: 220px;
+    margin-left: 170px;
     display: flex;
     position: absolute;
 }
 #d2-b2{
     border: none;
     outline: none;
-    width: 310px;
+    width: 270px;
     border-bottom: #E7E7E7 2px solid;
 }
 #d3{
@@ -110,19 +110,19 @@ input{
 }
 #d3-a1{
     height: 50px;
-    width: 300px;
+    width: 270px;
     margin: auto;
     border-radius: 10px;
     background-color:#FC347B ;
     display: flex;
     position: relative;
     margin-top: 30px;
-    margin-left: 30px;
+    margin-left:13px;
 }
 #d3-b1 a{
     display: flex;
     position: absolute;
-    left:130px;
+    left:120px;
     top:15px ;
     color: white;
 }
@@ -131,8 +131,8 @@ input{
     width: 85%;
     margin: auto;
     color:#999999 ;
-    margin-top: 5px;
-    margin-left: 35px;
+    margin-top: 6px;
+    margin-left: 26px;
     font-size:10px ;
 }
 #d3-b2{

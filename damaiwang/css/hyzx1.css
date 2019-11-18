@@ -1,0 +1,217 @@
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+/*第一部分*/
+#a1{
+    width: 100%;
+    height: 150px;
+}
+#a1 img{
+    width: 100%;
+    height: 100%;
+}
+#a2{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    position: relative;
+    border-bottom: #EEEEEE 2px solid;
+}
+#a2 h4{
+    padding-left: 15px;
+
+}
+#a2 p{
+    padding-left: 26px;
+    padding-top: 30px;
+    font-size:25px;
+    position: absolute;
+    color:#FF347D;
+}
+#a2 span{
+    color:#666666;
+    margin-top: 63px;
+    font-size: 14px;
+    margin-left: 155px;
+}
+#a2-2{
+    width: 100%;
+    height: 42px;
+    display: flex;
+    position: relative;
+}
+#a2-2 h5{
+    position: absolute;
+    margin-top: 12px;
+    margin-left: 20px;
+}
+#a3{
+    height: 190px;
+    width:100%;
+    border-top:#F5F5F5 10px solid ;
+    border-bottom:#F5F5F5 10px solid ;
+}
+#a3-1{
+    width:330px ;
+    height: 140px;
+    margin-left: 15px;
+    margin-top: 23px;
+    border-radius: 20px;
+    position: relative;
+    border: #ECECEC 3px solid;
+}
+#a3-1 h5{
+    position:absolute ;
+    margin-top: 10px;
+    margin-left: 12px;
+}
+.a3-a2{
+    width:100%;
+    height: 40px;
+    margin-top: 40px;
+    display: flex;
+    position: relative;
+}
+.a3-a3{
+    width:100%;
+    height: 40px;
+    display: flex;
+    position: relative;
+    margin-top: 8px;
+}
+.a3-b{
+    width: 32px;
+    height: 32px;
+    border-radius: 16px;
+    margin-top: 4px;
+    margin-left: 10px;
+}
+.a3-b img{
+    width: 100%;
+    height: 100%;
+    border-radius: 16px;
+}
+.a3-b2{
+    font-size: 15px;
+    color: #FF2D79;
+    padding-left: 45px;
+    padding-top: 10px;
+    position: absolute;
+}
+.a3-b3{
+    color: #000000;
+    position: absolute;
+    margin-top: 10px;
+    margin-left:220px;
+}
+
+/*第四部分*/
+#a4{
+    height: 133px;
+    width: 100%;
+    display: flex;
+    position: relative;
+    border-bottom:#F5F5F5 10px solid ;
+}
+#a4 h3{
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+#a4-a1{
+    width: 90%;
+    height: 66px;
+    margin-top: 50px;
+    margin-left: 15px;
+}
+#a4-a1 img{
+    width: 100%;
+    height: 100%;
+}
+/*第五部分*/
+#a5{
+    height: 600px;
+    width: 100%;
+    position: relative;
+    border-bottom:#F5F5F5 10px solid ;
+}
+#a5 h3{
+    position: absolute;
+    margin-top: -38px;
+    margin-left: 20px;
+}
+#a5-a p{
+    margin-top: 50px;
+}
+.a5-a1{
+    margin-left: 25px;
+    width: 90%;
+    color:#7B7B7B ;
+}
+/*第六部分*/
+#a6{
+    height:1120px;
+    width: 100%;
+    display: flex;
+    position: relative;
+}
+#a6 h3{
+    margin-top: 12px;
+    margin-left: 20px;
+    position: absolute;
+}
+#a6-a1{
+    width:90%;
+    height:93%;
+    margin-top: 50px;
+    margin-left: 19px;
+}
+.a6-b{
+    height:160px;
+    weight:100%;
+    margin-bottom: 16px;
+    position: relative;
+}
+.a6-b img{
+    width: 100%;
+    height: 100%;
+}
+.a6-c{
+    width:96%;
+    height: 43px;
+    position: absolute;
+    background-color:#FFFFFF;
+    margin-top: -52px;
+    margin-left: 6.5px;
+}
+.a6-c h6{
+    margin-top: 3px;
+    margin-left: 8px;
+}
+.a6-d1{
+    font-size: 2px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 8px;
+    color:#999999;
+}
+.a6-d2{
+    width:70px;
+    height:18px;
+    border-radius: 30px;
+    background-color:#FF647E ;
+    margin-top: -26px;
+    margin-left:230px ;
+    position: relative;
+}
+.a6-d2 span{
+    color:#FFFFEA ;
+    font-size: 10px;
+    margin-top: 1px;
+    margin-left: 11px;
+    position: absolute;
+}
